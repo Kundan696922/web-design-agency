@@ -47,9 +47,3 @@ A modern and responsive website for a fictional web design agency that offers cr
 2. Open the project folder and launch index.html in your browser.
 
 ---
-
-- [Songs folder](https://drive.google.com/drive/folders/1nW62i_iTxLCFGBwJMyxY3iBMMQrv8r9Y?usp=sharing)
-
----
-
-
